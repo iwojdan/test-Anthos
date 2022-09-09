@@ -1,0 +1,14 @@
+apiVersion: configsync.gke.io/v1beta1
+kind: RootSync
+metadata:
+  name: root-sync-emco
+  namespace: config-management-system
+spec:
+  sourceFormat: unstructured
+  git:
+    repo: https://github.com/iwojdan/EMCO-Anthos.git
+    revision: HEAD
+    branch: main
+    dir: "/clusters/provider-anthos+cluster-2"
+    auth: none
+    noSSLVerify: false
