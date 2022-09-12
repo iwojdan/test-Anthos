@@ -6,9 +6,9 @@ metadata:
 spec:
   sourceFormat: unstructured
   git:
-    repo: https://github.com/iwojdan/EMCO-Anthos.git
+    repo: https://github.com/iwojdan/test-Anthos.git
     revision: HEAD
     branch: main
-    dir: "/clusters/provider-anthos+cluster-2"
+    dir: "/clusters/provider-anthos+k8s-cluster"
     auth: none
     noSSLVerify: false
