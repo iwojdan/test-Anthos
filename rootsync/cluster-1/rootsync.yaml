@@ -9,6 +9,6 @@ spec:
     repo: https://github.com/iwojdan/test-Anthos.git
     revision: HEAD
     branch: main
-    dir: "/clusters/provider-anthos+k8s-cluster"
+    dir: "/clusters/provider-anthos+cluster2"
     auth: none
     noSSLVerify: false
