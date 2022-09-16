@@ -1,0 +1,1 @@
+{"apiVersion":"v1","data":{"AMF_INSTANCE_ID":"79cd4a65-8a93-4c32-857f-61fe6dfb686c"},"kind":"ConfigMap","metadata":{"labels":{"emco/deployment-id":"4450945460859694116-wef-5-0"},"name":"r1-nfinstanceid-config","namespace":"default"}}
