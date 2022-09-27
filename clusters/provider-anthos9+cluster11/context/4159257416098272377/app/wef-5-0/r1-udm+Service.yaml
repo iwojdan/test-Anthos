@@ -1,0 +1,1 @@
+{"apiVersion":"v1","kind":"Service","metadata":{"labels":{"emco/deployment-id":"4159257416098272377-wef-5-0"},"name":"r1-udm","namespace":"default"},"spec":{"ports":[{"port":80,"protocol":"TCP","targetPort":29503}],"selector":{"app.kubernetes.io/instance":"r1","app.kubernetes.io/name":"udm-udm"}}}

@@ -1,0 +1,1 @@
+{"apiVersion":"v1","kind":"PersistentVolumeClaim","metadata":{"labels":{"emco/deployment-id":"4159257416098272377-wef-5-0"},"name":"r1-smf-redis-pvc","namespace":"default"},"spec":{"accessModes":["ReadWriteOnce"],"resources":{"requests":{"storage":"128Mi"}}}}

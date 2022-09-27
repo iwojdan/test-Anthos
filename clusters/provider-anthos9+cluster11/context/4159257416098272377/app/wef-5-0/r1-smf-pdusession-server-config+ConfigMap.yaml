@@ -1,0 +1,1 @@
+{"apiVersion":"v1","data":{"JAVA_OPTS":"","NF_APIROOT":"http://r1-smf-pdusession-server:80","NF_PCF_ENABLED":"false","NF_SMFN4_APIROOT":"http://r1-smf-n4-sessions:8080/nsmf-n4/v1"},"kind":"ConfigMap","metadata":{"labels":{"emco/deployment-id":"4159257416098272377-wef-5-0"},"name":"r1-smf-pdusession-server-config","namespace":"default"}}
