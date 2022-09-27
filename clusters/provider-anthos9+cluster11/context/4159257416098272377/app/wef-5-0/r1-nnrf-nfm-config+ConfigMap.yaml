@@ -1,0 +1,1 @@
+{"apiVersion":"v1","data":{"JAVA_OPTS":"","NF_APIROOT":"http://r1-nnrf-nfmanagement","NF_NRF_NFM_HEARTBEATTIMER":"30","NF_NRF_NFM_NOTIFICATION_UPDATE_TYPE":"FULL"},"kind":"ConfigMap","metadata":{"labels":{"emco/deployment-id":"4159257416098272377-wef-5-0"},"name":"r1-nnrf-nfm-config","namespace":"default"}}
