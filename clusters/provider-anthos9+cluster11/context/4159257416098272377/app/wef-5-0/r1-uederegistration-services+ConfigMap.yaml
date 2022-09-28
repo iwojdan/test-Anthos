@@ -1,1 +1,0 @@
-{"apiVersion":"v1","data":{"AMQP_DNS":"r1-amf-rabbitmq"},"kind":"ConfigMap","metadata":{"labels":{"emco/deployment-id":"4159257416098272377-wef-5-0"},"name":"r1-uederegistration-services","namespace":"default"}}

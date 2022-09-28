@@ -1,1 +1,0 @@
-{"apiVersion":"v1","data":{"JAVA_OPTS":"","NF_NRF_APIROOT":"http://default-r1-ingress-nginx-controller:80","NF_NRF_DISC_VALIDITYPERIOD":"90"},"kind":"ConfigMap","metadata":{"labels":{"emco/deployment-id":"4159257416098272377-wef-5-0"},"name":"r1-nnrf-disc-config","namespace":"default"}}

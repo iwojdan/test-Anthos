@@ -1,1 +1,0 @@
-{"apiVersion":"v1","data":{"JAEGER_DNS":"r1-wef-jaeger-collector","NF_NRF_APIROOT":"http://default-r1-ingress-nginx-controller:80","NF_NRF_READYCHECK":"http://default-r1-ingress-nginx-controller:80/nnrf-disc/v1/q/health/ready"},"kind":"ConfigMap","metadata":{"labels":{"emco/deployment-id":"4159257416098272377-wef-5-0"},"name":"r1-smf-global-config","namespace":"default"}}
