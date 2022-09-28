@@ -1,1 +1,0 @@
-{"apiVersion":"v1","data":{"topology.yaml":"# Upfs and Gnbs topology\n\n## Topology example\n# rennes:\n#   gNBs:\n#   - 1\n#   - 2\n#   n4Ip: 198.51.100.1"},"kind":"ConfigMap","metadata":{"labels":{"emco/deployment-id":"4159257416098272377-wef-5-0"},"name":"r1-smf-n4-topology-cfgmap","namespace":"default"}}

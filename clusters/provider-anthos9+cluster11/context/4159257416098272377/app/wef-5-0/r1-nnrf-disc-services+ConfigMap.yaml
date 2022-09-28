@@ -1,1 +1,0 @@
-{"apiVersion":"v1","data":{"JAEGER_DNS":"r1-wef-jaeger-collector","NNRF_NFM_DNS":"r1-nnrf-nfmanagement"},"kind":"ConfigMap","metadata":{"labels":{"emco/deployment-id":"4159257416098272377-wef-5-0"},"name":"r1-nnrf-disc-services","namespace":"default"}}
